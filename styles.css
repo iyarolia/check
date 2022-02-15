@@ -8,9 +8,10 @@ p, a {
     font-family: 'Open Sans', sans-serif;
   }
 
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #b8d836;
+}
 
 /* Layout */
-
-p {
-    font-size: 14px;
-}
